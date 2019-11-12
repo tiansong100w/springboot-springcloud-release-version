@@ -11,6 +11,8 @@
 | Edgware     | 2017-11 |
 | Edgware SR3 | 2018-3  |
 | Finchley    | 2018-6  |
+| Greenwich   |         |
+| Hoxton      |         |
 
 ## Spring boot and Spring cloud version matching
 
@@ -22,6 +24,8 @@
 | Dalston SR5  | 1.5.x       |
 | Edgware SR3  | 1.5.x       |
 | Finchley     | 2.0.x       |
+| Greenwich    | 2.1.x       |
+| Hoxton       | 2.2.x       |
 
 
 
